@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 
+// TODO: Calculate for each line 1) the line endings count (check for all possible endings), 2) the leading and trailing whitespace (excluded line endings)
+
 namespace ConsoleApp
 {
     class Program
